@@ -11,3 +11,5 @@ Este espaço é dedicado aos meus estudos e projetos práticos do curso de **Eng
 ### Tecnologias
 
 * **Microsoft Power BI Desktop:** Para criação de dashboards, relatórios e análises.
+
+---
